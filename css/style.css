@@ -1,0 +1,99 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    background-color: #f5f5f5;
+  }
+  .mainContainer {
+    width: 1160px;
+    height: 538px;
+    display: flex;
+    margin: 0 auto;
+    padding: 0 auto;
+    margin top: 300px;
+    justify-content: space-between;
+    text-wrap: wrap;
+  }
+  
+  .card1 {
+    width: 360px;
+    height: 528px;
+    background-color: white;
+    position: relative;
+    display: inline-block;
+  }
+  
+  .card2 {
+    width: 360px;
+    height: 528px;
+    background-color: white;
+    position: relative;
+    display: inline-block;
+  }
+  .card3 {
+    width: 360px;
+    height: 528px;
+    background-color: white;
+    position: relative;
+    display: inline-block;
+  }
+  .firstH {
+    padding-left: 24px;
+    padding-top: 32px;
+    font-size: 25px;
+  }
+  .firstP {
+    padding-left: 24px;
+    padding-top: 24px;
+    font-size: 16px;
+    color: rgb(220, 220, 220);
+  }
+  .seccondP {
+    padding-left: 24px;
+    padding-top: 41px;
+    font-size: 16px;
+    color: rgb(220, 220, 220);
+  }
+  .seccondSpan {
+    padding-right: 43px;
+    padding-left: 43px;
+  }
+  .thirdP {
+    padding-left: 24px;
+    padding-top: 41px;
+  }
+  .firstPrice {
+    padding-right: 8px;
+    font-size: 28px;
+  }
+  .seccondPrice {
+    padding-right: 29px;
+    font-size: 20px;
+    color: #f8593b;
+    text-decoration: line-through;
+  }
+  .firstButton {
+    width: 114px;
+    height: 44px;
+    font-size: 14px;
+    color: #ffffff;
+    background-color: #2ecc71;
+    border-color: #2ecc71;
+  }
+  .infoIcon {
+    position: absolute;
+    top: 16px;
+    left: 304px;
+  }
+  .infoIcon2 {
+    position: absolute;
+    top: 16px;
+    left: 304px;
+  }
+  .infoIcon3 {
+    position: absolute;
+    top: 16px;
+    left: 304px;
+  }
